@@ -1,0 +1,177 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+header
+{
+    margin-top: 0px;
+    width: 100%;
+    height: 90px;
+    background: darkcyan;
+    box-shadow: 20px;
+}
+header h1{
+text-align: center;
+padding: 25px;
+}
+.navbar{
+    margin-top: 0px;
+    width: 100%;
+    background: gray;
+    height: 80px;
+}
+.navbar ul{
+    float: right;
+    margin-right: 450px;
+}
+.navbar ul li {
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+}
+.navbar ul li a{
+    border: solid;
+    color: white;
+    font-size: 17px;
+    padding: 7px 13px;
+    border-radius: 10px;
+}
+
+.acc{
+    margin: 10px;
+    width: 900px;
+    border: solid;
+    border-radius: 30px;
+    padding: 20px;
+    margin-left: 200px;
+    background-color: aquamarine;
+
+}
+.pro
+{
+    margin: 10px;
+    width: 900px;
+    border: solid;
+    border-radius: 30px;
+    padding: 20px;
+    margin-left: 200px;
+    background-color: bisque;
+
+}
+.tra{
+    margin: 10px;
+    width: 900px;
+    border: solid;
+    border-radius: 30px;
+    padding: 20px;
+    margin-left: 200px;
+    background-color: blanchedalmond;
+
+}
+.cont{
+    margin: 10px;
+    width: 900px;
+    border: solid;
+    border-radius: 30px;
+    padding: 20px;
+    margin-left: 200px;
+    background-color: beige;
+
+}
+.aud{
+    margin: 10px;
+    width: 900px;
+    border: solid;
+    border-radius: 30px;
+    padding: 20px;
+    margin-left: 200px;
+    background-color: brown;
+
+}
+.vid{
+    margin: 10px;
+    width: 900px;
+    border: solid;
+    border-radius: 30px;
+    padding: 20px;
+    margin-left: 200px;
+    background-color: aqua;
+
+}
+.you{
+    margin: 10px;
+    width: 900px;
+    border: solid;
+    border-radius: 30px;
+    padding: 20px;
+    margin-left: 200px;
+    background-color: antiquewhite;
+
+}
+.cv{
+    margin: 10px;
+    width: 900px;
+    border: solid;
+    border-radius: 30px;
+    padding: 20px;
+    margin-left: 200px;
+    background-color: aqua;
+
+}
+.tab{
+    margin: 10px;
+    width: 900px;
+    border: solid;
+    border-radius: 30px;
+    padding: 20px;
+    margin-left: 200px;
+    background-color: blue;
+
+}
+fieldset{
+    height: 370px;
+    width: 600px;
+}
+.form{
+    height: 500px;
+    margin: 10px;
+    width: 900px;
+    border: solid;
+    border-radius: 30px;
+    padding-left: 350px;
+    margin-left: 200px;
+    padding-top: 50px;
+    background-color: blueviolet;
+
+}
+td{
+    padding: 10px;
+}
+input{
+    padding: 5px;
+    border-radius: 20px;
+}
+form h1{
+    text-align: center;
+}
+footer{   
+    margin-bottom: 0px;
+    width: 100%;
+    height: 90px;
+    background: darkcyan;
+    box-shadow: 20px;}
+    footer h3,p{
+        padding-top: 10px;
+        text-align: center;
+    }
+.tab table{
+    width: 800px;
+    padding: 100px;
+}
+.tab p{
+    text-transform: uppercase;
+    text-align: center;
+    
+}
